@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#slack-name {
+    font-size: 24px;
+    margin: 20px;
+}
+
+#slack-display-image {
+    width: 150px;
+    object-fit: cover;
+    height: 150px;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+#current-day {
+    font-size: 20px;
+    margin: 20px;
+}
+
+#current-utc-time {
+    font-size: 20px;
+    margin: 20px;
+}
+
+#my-track {
+    font-size: 20px;
+    margin: 20px;
+}
