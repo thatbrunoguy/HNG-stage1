@@ -30,3 +30,14 @@ body {
     font-size: 20px;
     margin: 20px;
 }
+
+#repo-link{
+    font-size: 18px;
+    color: #696969;
+    text-decoration: none;
+}
+
+#repo-link:hover{
+    color: black;
+    border-bottom: 2px solid #696969;
+}
